@@ -8,8 +8,8 @@ This project is a starting point for a Flutter application.
 ![android](./screenshots/hotel.jpg?raw=true 'android')
 
 ## Features
-- :white_check_mark: Beautiful minimal UI
-- :white_check_mark: Dark and Light themes
+:white_check_mark: Custom Launching Screen
+:white_check_mark: Onboarding Screen
 - :white_check_mark: Current temperature, max and min temperature, sunset, sunrise
 - :white_check_mark: Custom icons for each weather condition
 - :white_check_mark: 5 day forecast
