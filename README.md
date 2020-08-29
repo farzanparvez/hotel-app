@@ -8,14 +8,14 @@ This project is a starting point for a Flutter application.
 ![android](./screenshots/hotel.jpg?raw=true 'android')
 
 ## Features
-:white_check_mark: Custom Launching Screen
-:white_check_mark: Onboarding Screen
-- :white_check_mark: Current temperature, max and min temperature, sunset, sunrise
-- :white_check_mark: Custom icons for each weather condition
-- :white_check_mark: 5 day forecast
-- :white_check_mark: Beautifully animated transitions
-- :white_check_mark: BLoC pattern for API calls
-- :white_check_mark: Line graph to show temperature variance
+- :white_check_mark: Custom Launching Screen
+- :white_check_mark: Onboarding Screen
+- :white_check_mark: Facebook & Gmail Login
+- :white_check_mark: Custom icons for bottom navigation bar
+- :white_check_mark: User Profile
+- :white_check_mark: Payment Gateway Integration
+- :white_check_mark: BLoC Pattern for API Calls
+- :white_check_mark: Reservation History
 
 A few resources to get you started if this is your first Flutter project:
 
