@@ -1,6 +1,6 @@
-# hotelshippo
+# Hotel Booking App
 
-A new Flutter project.
+Book your hotel with our booking app to save your time and budget built using Flutter and Dart.
 
 ## Getting Started
 
